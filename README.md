@@ -1,6 +1,8 @@
-# docker-bundle-audit
+# docker-bundler-audit
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/7a6163/docker-bundler-audit/release.yml)
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/7a6163/bundler-audit)](https://hub.docker.com/r/7a6163/bundler-audit)
+
 
 docker image for [bundler-audit](https://github.com/rubysec/bundler-audit)
 
